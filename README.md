@@ -13,8 +13,7 @@
   <a href="https://x.com/Jermane_Jay">
     <img src="https://img.shields.io/badge/X-black?style=for-the-badge&logo=X&logoColor=white" alt="X Badge"/>
   </a>
-</div>
-<div align=center">
+
   <img src="https://komarev.com/ghpvc/?username=jermine-jay&style=flat-square&color=blue" alt=""/>
 </div>
 <!--
