@@ -3,7 +3,7 @@
 <div id="header" align="center">
   <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExYml4aDZ2eDBsYnEycGN4NnJvaWV1Y2RkeXl2a3VtemFnOHQ0bXY2MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/fYwwJG7ftffzzCm3mW/giphy.gif" width="100"/>
 </div>
-<div id="badges">
+<div id="badges" align="center">
   <a href="https://www.linkedin.com/in/johnson-chukwu-0843a1216">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
@@ -14,7 +14,7 @@
     <img src="https://img.shields.io/badge/X-black?style=for-the-badge&logo=X&logoColor=white" alt="X Badge"/>
   </a>
 </div>
-<div>
+<div align = "">
   <img src="https://komarev.com/ghpvc/?username=jermine-jay&style=flat-square&color=blue" alt=""/>
 </div>
 <!--
