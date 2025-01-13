@@ -1,6 +1,6 @@
 ## Hi there 👋
 <div id="header" align="center">
-  <img src="https://www.sitepoint.com/github-profile-readme/" width="100"/>
+  <img src="https://www.sitepoint.com/github-profile-readme" width="100"/>
 </div>
 <!--
 **Jermaine-jay/jermaine-jay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
