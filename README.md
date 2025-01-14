@@ -67,8 +67,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 ### :fire: My Stats :
 
-https://github-readme-streak-stats.herokuapp.com?user=jermaine-jay&theme=dark
-
+<a href="https://git.io/streak-stats"><img src="http://github-readme-streak-stats.herokuapp.com?user=jermaine-jay&theme=dark" alt="GitHub Streak" /></a>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jermaine-jay&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 <!--
