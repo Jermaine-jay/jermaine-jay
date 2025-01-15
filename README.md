@@ -80,8 +80,9 @@ I Am A Software Developer And Technical Content Writer <img src="https://media.g
 
 ### :fire: My Stats :
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=jermaine-jay&theme=dark)](https://git.io/streak-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jermaine-jay&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=jermaine-jay&theme=dark)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jermaine-jay&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 <!--
