@@ -1,13 +1,16 @@
 ## Hi there 👋
-💻 Full-Stack Developer | Technical Writer
+💻 Full-Stack Developer | Technical Writer:
+
 Hello! I'm an experienced intermediate-level full-stack software developer and technical writer with almost half a decade of industry experience. I specialize in solving complex problems, delivering high-quality, well-documented code, and ensuring project deadlines are met with excellence.
 
-🚀 What I Bring to the Table:
+🚀 What I Offer:
+
 Expertise in various programming languages, frameworks, and tools.
 A strong focus on innovation and delivering impactful solutions.
 A passion for creating clean, maintainable code that drives business success.
 
 📚 Always Learning:
+
 I thrive on tackling challenging projects, expanding my technical knowledge, and contributing to meaningful work that makes a difference.
 
 🤝 Let’s Collaborate!
